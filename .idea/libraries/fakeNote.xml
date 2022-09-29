@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fakeNote">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$USER_HOME$/Downloads/commons-io-2.11.0/commons-io-2.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
